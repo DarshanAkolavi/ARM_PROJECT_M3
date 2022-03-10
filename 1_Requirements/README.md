@@ -1,8 +1,21 @@
 ## intro
 ## functions
 ## Requirements
-  1).HLR
-  2).LLR
+  ### **1) HLR**
+
+| HLR1     | It shall operate by broadcasting radio waves on a particular frequency.|
+| -------- | ---------------------------------------------------------------------- | 
+| HLR2     | It shall prevent car thieves through rolling code algorithm.           | 
+| HLR3     | It shall recognize the signal and respond with a ultra high frequency. | 
+  
+  ### **2) LLR**
+  
+| LLR1     | It shall be able to lock the car.                   |
+| -------- | ----------------------------------------------------| 
+| LLR2     | It shall be able to unlock the car.                 | 
+| LLR3     | It shall be able to activate/ deactivate the alarm. |
+| LLR4     | It shall be able to activate the light.             |
+
 ## SWOT Analysis
   1.Strengths
   2.Weakness
