@@ -19,6 +19,6 @@
 | 6_ImagesAndVideos | simulations and output of the project in image form |
  
  # Badges
-1)project quality. 
-2)code Grade. 
-3)codiga and codacy.
+1) Project quality <br>
+2) Code Grade <br>
+3) Codiga and Codacy
