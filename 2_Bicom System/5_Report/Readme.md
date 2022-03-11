@@ -43,7 +43,7 @@ BiCom system is a communication system between vehicle and its remote. The syste
 
 ## 1.5 SWOT Analysis
 
-![image](https://user-images.githubusercontent.com/98837660/157905281-dbd303fb-879a-41ad-91ca-1c45f67756f4.png
+![image](https://user-images.githubusercontent.com/98837660/157905281-dbd303fb-879a-41ad-91ca-1c45f67756f4.png)
 
  ## Strengths
 * smart car experience usage.
