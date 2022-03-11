@@ -11,24 +11,21 @@ BiCom system is a communication system between vehicle and its remote. The syste
 
 ![image](https://user-images.githubusercontent.com/98837660/157905281-dbd303fb-879a-41ad-91ca-1c45f67756f4.png)
 
-Strengths
+## Strengths
 * smart car experience usage.
 * easy process of converting information or data into a code.
 * no need for manual operation by humans.
 * Easy operation and take all the commands at one input.
-
-Weakness
+## Weakness
 * it works in a limited range of distance .
 * it takes some time to take input commands and give responses.
 * use may not get a correct response in some time due to delay in time.
-
-Opportunities
+## Opportunities
 * the system is cost-effective and economically feasible.
 * the system is used as a control system for automobiles.
 * the system is more secure because its works on the data description.
 * the system is easy to use and it is having the scope in current automobiles.
-
-Threats
+## Threats
 * the system will not be taking the next command until the operation or function of the first command end.
 * system will not work if there is no power supply.
 * system will get damaged if in case of excessive power supply.
