@@ -9,6 +9,8 @@
 * It is able to lock the car when button is pressed twice
 * It shall activation/deactivation alarm, when button is pressed thrice.
 * It shall activate approach light ,when button is pressed four times.
+* Although, locking your car should come as second nature, very often, that niggling thought “have I locked the car?” does make you walk back just to be sure. Now, the keyless   system saves you that trouble, because after the car is parked and you have walked a certain distance away, the car automatically locks itself. However, should you leave,       forgetting the key fob in the car, the vehicle will stay unlocked. This of course ensures that you are not locked out of your car. 
+
 
 # State of art/Research
 
