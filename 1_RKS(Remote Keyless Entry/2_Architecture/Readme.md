@@ -53,3 +53,10 @@
 
 
 ![rkss1](https://user-images.githubusercontent.com/55775183/157884205-bee07174-2919-49a3-99be-ff47af11b6e3.png)
+
+# 4. PIN DIAGRAM (STM32f407)
+
+![STM32F407 PIN](https://user-images.githubusercontent.com/98824269/157914502-ba986355-c47d-46f1-8ce1-63b2f5a24f2a.png)
+
+
+
