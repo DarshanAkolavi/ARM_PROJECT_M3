@@ -1,23 +1,23 @@
 # 1.Remote keyless entry systems.
-  * i.Description
-  * ii.Identifying features
-  * iii.Research
-  * iv.5W’s & 1H 
-  * v.S.W.O.T analysis
+  * i. Description
+  * ii. Identifying features
+  * iii. Research
+  * iv. 5W’s & 1H 
+  * v. S.W.O.T analysis
 # 2.Requirements
-  * i.High level requirements
-  * ii.Low level requirements and applications
+  * i. High level requirements
+  * ii. Low level requirements and applications
 # 3.Architecture    
-  * i.Block diagram
-  * ii.Behavioural Diagram
-      * a.High Level Flow chart Behavioural Diagram
-      * b.Low Level Flow chart Behavioural Diagram
+  * i. Block diagram
+  * ii. Behavioural Diagram
+      * a. High Level Flow chart Behavioural Diagram
+      * b. Low Level Flow chart Behavioural Diagram
   * iii.Structural Diagram
-     i.UML usecase diagram
-  * iv.Pin diagram (STM32f407)
+  * i. UML usecase diagram
+  * iv. Pin diagram (STM32f407)
 # 4.Test plan and Output
-  * i.High level test plan
-  * ii.Low level test plan
+  * i. High level test plan
+  * ii. Low level test plan
 
 ## 1.Remote Keyless Entry Systems
 # 1.1 Description
