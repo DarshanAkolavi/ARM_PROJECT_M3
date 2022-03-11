@@ -21,4 +21,4 @@
  # Badges
 1)project quality. 
 2)code Grade. 
-3)codigs And 	codacy.
+3)codiga and codacy.
