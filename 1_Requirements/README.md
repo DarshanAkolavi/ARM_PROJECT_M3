@@ -21,7 +21,7 @@ Although, locking your car should come as second nature, very often, that niggli
 |----------| -----------------------------------------------------------------------|
 | HLR1     | It should be easily accesible and it must control the car            | 
 | HLR2     | It shall prevent car thieves through using different features           | 
-| HLR3     | Device shall be provided with alaram activation and * deactivation | 
+| HLR3     | Device shall be provided with alaram activation and  # deactivation | 
   
   ### **2) LLR**
   
