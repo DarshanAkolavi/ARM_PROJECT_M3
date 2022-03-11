@@ -7,13 +7,14 @@
 # 2.Requirements
   * i.High level requirements
   * ii.Low level requirements and applications
-# 3.Architecture                                                                                       
-  * i.Behavioural Diagram
+# 3.Architecture    
+  * i.Block diagram
+  * ii.Behavioural Diagram
       * a.High Level Flow chart Behavioural Diagram
       * b.Low Level Flow chart Behavioural Diagram
-  * ii.Structural Diagram
-      * a. High Level UML Use Case Structural Diagram
-      * b  Low Level UML Use Case Structural Diagram
+  * iii.Structural Diagram
+     i.UML usecase diagram
+  * iv.Pin diagram (STM32f407)
 # 4.Test plan and Output
   * i.High level test plan
   * ii.Low level test plan
@@ -128,8 +129,8 @@
   * Widely used in automobiles. An RKS performs the functions of a standard car key without physical contact, When within a few yards of the car, pressing a button on the           remote can lock or unlock the doors, and may perform other functions.
 
 --------------------------------------------------------------------
-# Architecture
-# 1 . Block Diagram
+# 3.Architecture
+# 3.1 Block Diagram
 
 
 
@@ -154,8 +155,8 @@
  
  
  
- # 2 . Behavioural Diagram
-- High Level Flow chart Behavioural Diagram
+ # 3.2 Behavioural Diagram
+- # 3.2.1 High Level Flow chart Behavioural Diagram
 
 
 
@@ -165,7 +166,7 @@
 
 ![rks1111](https://user-images.githubusercontent.com/55775183/157883519-294c5ad2-3e43-463c-8162-92277cd5f610.png)
 
-- Low Level Flow chart Behavioural Diagram
+- # 3.2.2Low Level Flow chart Behavioural Diagram
 
 
 
@@ -176,7 +177,7 @@
 
 ![rks2](https://user-images.githubusercontent.com/55775183/157883795-6a6e0407-89c3-414c-b33e-254cd40d1a20.png)
 
-# 3 . UML Use Case Structural Diagram
+# 3.3 UML Use Case Structural Diagram
 
 
 
@@ -184,7 +185,7 @@
 
 ![rkss1](https://user-images.githubusercontent.com/55775183/157884205-bee07174-2919-49a3-99be-ff47af11b6e3.png)
 
-# 4. PIN DIAGRAM (STM32f407)
+# 4.PIN DIAGRAM (STM32f407)
 
 ![STM32F407 PIN](https://user-images.githubusercontent.com/98824269/157914502-ba986355-c47d-46f1-8ce1-63b2f5a24f2a.png)
 
