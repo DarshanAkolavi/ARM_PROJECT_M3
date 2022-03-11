@@ -37,17 +37,40 @@ BiCom system is a communication system between vehicle and its remote. The syste
 |HLR1| System shall display Window status of the car  |
 |HLR2| System shall display Alarm status of the car   |
 |HLR3| System shall display Battery status of the car |
-|HLR3| System shall display Display status of the car |
+|HLR3| System shall display Door status of the car |
 
 --------------------------------------------------------------------
 
-  
+|   ID     | Low Level Requirements |
+|----------| -----------------------------------------------------------------------|
+|LLR1.1| Based on user press of Button all leds need to turn ON | 
+|LLR1.2| Based on user press of Button all leds need to turn OFF|  
+
+-------------------------------------------------------
+
+|   ID     | Low Level Requirements |
+|----------| -----------------------------------------------------------------------|
+|LLR2.1|	According to the press of Button all LED's shall be ON at a time indicating the activation of alaram |
+|LLR2.2|	According to the press of Button LED's shall be OFF at a time indicating the de activation of alaram |
+
+---------------------------------------------------------
+
+|   ID     | Low Level Requirements |
+|----------| -----------------------------------------------------------------------|
+|LLR3.1|	According to the press of Button by three times  all LED's shall be ON in a clockwise manner |
+|LLR3.2| According to the press of Button by three times  all LED's shall be OFF in a anti-clockwise manner|
+
+-----------------------------
+
+|   ID     | Low Level Requirements |
+|----------| -----------------------------------------------------------------------|
+|LLR4.1|	According to the press of Button by four times  all LED's shall be ON in a anti-clockwise manner |
+|LLR4.2| According to the press of Button by four times  all LED's shall be OFF in a clockwise manner|
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-
---------------------------------------------------------
 ## Applications 
 
  * Bi-directional communication makes this possible. When the door handle is pulled (or some similar trigger is activated) the base unit located within the vehicle emits a         short range, low frequency signal- polling for a nearby key fob transponder.
