@@ -128,3 +128,6 @@
   * Widely used in automobiles. An RKS performs the functions of a standard car key without physical contact, When within a few yards of the car, pressing a button on the           remote can lock or unlock the doors, and may perform other functions.
 
 --------------------------------------------------------------------
+# 3.Architecture
+# 3.1 Block Diagram
+![Block diagram](https://user-images.githubusercontent.com/55775183/157879751-45b1ef41-d842-4bf4-baba-526e34860a17.png)
