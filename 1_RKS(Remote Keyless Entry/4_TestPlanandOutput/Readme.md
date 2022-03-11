@@ -1,6 +1,6 @@
 
 
-## High Level Test Plan
+## 4.1 High Level Test Plan
 | Test Id | Description | Exp I/P | Exp O/P | Actual O/P | Passed/Failed |
 |---------|-------------|---------|---------|------------|---------------|
 | HL01 | Status of lock of car | Button Pressed One time | Locked Car | Locked Car | Passed |
@@ -10,7 +10,7 @@
 
 -----------------------------------------------------------------------------------------------------------------
 
-## Low Level Test Plan
+## 4.2 Low Level Test Plan
 | Test Id | Description | Exp I/P | Exp O/P | Actual O/P | Passed/Failed |
 |---------|-------------|---------|---------|------------|---------------|
 | LL01 | Check for lock | Button pressed One time | All LED's On | All LED's On | Passed |
