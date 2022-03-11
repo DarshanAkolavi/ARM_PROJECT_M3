@@ -2,10 +2,11 @@
   * i.Description
   * ii.Identifying features
   * iii.Research
-  * iv.5W’s & 1H and S.W.O.T analysis
+  * iv.5W’s & 1H 
+  * v.S.W.O.T analysis
 # 2.Requirements
   * i.High level requirements
-  * ii.Low level requirements
+  * ii.Low level requirements and applications
 # 3.Architecture                                                                                       
   * i.Behavioural Diagram
       * a.High Level Flow chart Behavioural Diagram
@@ -18,11 +19,11 @@
   * ii.Low level test plan
 
 ## 1.Remote Keyless Entry Systems
-# Description
+# 1.1 Description
 * This project is an Remote keyless entry(RKE) system. This system helps to Lock the car, Unlock the car, Alarm activation/deactivation and Light Focus if anyone approaches near. There is a led signaling which helps us to identify the features. For example if we press a button 1 time all the LED will be on which means we locked the car and similarly for 2, 3 and 4 clicks. In this system one of the main feature is providing technical safety to the car rolling code algorithm to prevent car thieves/hackers from intercepting and spoofing the telegrams.
 * Here,we have transmitter and reciever units.Transmitter unit sends radio waves of certain frequency which is recieved by reciever which is placed inside the car.Now,the job of rolling code algorithm is that every time radio waves are transmitted the reciever accepts it and guids the transmitter with the perticular frequency required for nect process
 
-# Features
+# 1.2 Features
 
 * It is able to lock the car when button is pressed once.
 * It is able to lock the car when button is pressed twice
@@ -30,17 +31,17 @@
 * It shall activate approach light ,when button is pressed four times.
 * Although, locking your car should come as second nature, very often, that niggling thought “have I locked the car?” does make you walk back just to be sure. Now, the keyless   system saves you that trouble, because after the car is parked and you have walked a certain distance away, the car automatically locks itself. However, should you leave,       forgetting the key fob in the car, the vehicle will stay unlocked. This of course ensures that you are not locked out of your car. 
 
-# Research
+# 1.3 Research
 
 * The term remote keyless system (RKS), also called keyless entry or remote central locking, refers to a lock that uses an electronic remote control as a key which is activated   by a handheld device or automatically by proximity.
   Keyless entry is a convenient system that removes the need for a physical key to unlock car doors. A “fob” or keychain, whether it’s in your hand, in a pocket, or in your       bag, will unlock the door hands-free. The same fob works to start the engine.
 * Keyless entry is intended to enable a driver to lock and unlock their car without a key. Keyless entry to a vehicle is usually attained by sending a radio frequency signal     from a remote transmitter to the receiver in the car. According to Compustar, the signal is sent as encrypted data from the keychain to your car.
 * Most keyless entry systems also allow the driver to open the vehicle, particularly the trunk, by pressing a button or using a shoe. The sensors for the trunk detect movement   and open it automatically, a handy detail for those who are grocery shopping or moving. The car sends out the short radio signal. If the fob is in range, it’s then triggered   to respond to the car, sending out its own code. The car recognizes this and unlocks the doors.
 
-## 5W's And 1H
+## 1.4 5W's And 1H
 ![new_5w](https://user-images.githubusercontent.com/46949062/157802342-5fc444bf-afbf-41c0-a513-2570608c4299.PNG)
 
-## SWOT Analysis
+## 1.5 SWOT Analysis
 
 ![image](https://user-images.githubusercontent.com/98837660/157798253-438d0d1b-9386-4e06-b6f7-bc9164bafd78.png)
 
@@ -74,7 +75,8 @@
   
 
  
-## Requirements
+## 2. Requirements
+# 2.1 High Level Requirements
  
 |   ID     | High Level Requirements |
 |----------| -----------------------------------------------------------------------|
@@ -84,7 +86,7 @@
 | HLR4     | __Baterry life__ is important in RKE systems |
 
 --------------------------------------------------------------------
-
+ # 2.2 Low Level Requirements
   
 |   ID     | Low Level Requirements | 
 | -------- | ----------------------------------------------------| 
