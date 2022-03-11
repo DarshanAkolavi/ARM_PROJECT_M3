@@ -1,4 +1,4 @@
-# High Level Test Plan
+# 4.1 High Level Test Plan
 
  | Test Id | Description | Exp I/P | Exp O/P | Actual O/P | Passed/Failed |
  |  -------- | -----------|----------|--------|---------------|----------- |
@@ -8,7 +8,7 @@
  | HL04 | Check for Door status | User presses button four times | Door detected | Door detected | passed |
 
 
-# Low Level Test Plan
+# 4.2 Low Level Test Plan
 | Test Id | Description | Exp I/P | Exp O/P | Actual O/P | Passed/Failed |
 |  -------- | -----------|----------|--------|---------------|----------- |
 |LL01|	Check for Window | User presses the Button Once	|All LED's turn On|	All LED's turn On|	Passed |
