@@ -1,6 +1,5 @@
-## ARM_PROJECT_M3
+# M3_Group_67
 
-Getting Started with ARM Based Microcontroller
 1.	RKE (Remote Keyless Entry)
 2.	BiCom System 
 
