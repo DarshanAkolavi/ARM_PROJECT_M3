@@ -102,6 +102,9 @@
 
   * Remote keyless entry systems, now fairly commonplace devices, provide car owners with a degree of convenience, making the task of physically inserting a key unnecessarily.
   * The introduced protocol has several advantages among common protocols used in Secure Remote Keyless Entry Systems. One advantage is the easy implementation of the               introduced protocol and of the lightweight encryption algorithm.
+  * Bi-directional communication makes this possible. When the door handle is pulled (or some similar trigger is activated) the base unit located within the vehicle emits a         short range, low frequency signal- polling for a nearby key fob transponder.
+  * if present, the key fob recognizes the signal and responds with a UHF (ultra-high frequency) signal, transmitting a code to be authenticated by the base unit encryption         firmware, such as Microchip Technology's Keylock.
+  * Remote keyless entry systems, now fairly commonplace devices, provide car owners with a degree of convenience, making the task of physically inserting a key unnecessary
   * In the proposed Remote Keyless Entry System, the driver has to press a button on the key fob to open or lock the car. This prevents the system from a Two-Thief Attack.         Furthermore, with the proposed system it is almost impossible to become a victim of a Scan, Playback, or a Challenge Forward Prediction Attack since the authentication         message consists of encrypted decimal numbers from randomly selected memory locations.
   * Widely used in automobiles. An RKS performs the functions of a standard car key without physical contact, When within a few yards of the car, pressing a button on the           remote can lock or unlock the doors, and may perform other functions.
 
