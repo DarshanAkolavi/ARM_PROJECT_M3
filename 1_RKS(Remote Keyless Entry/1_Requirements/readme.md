@@ -85,9 +85,9 @@
 
 |   ID     | Low Level Requirements | 
 | -------- | ----------------------------------------------------| 
-| LLR3.1   |  __Alarams__ and LEDS needs to be synchronized otherwise the user will not get required output |
-| LLR3.2   |   When the blue switch is pressed three  times all led needs to turn ON in clockwise manner indicating the __alaram__ activation  |
-| LLR3.3   |  __Alarams__ gives security alert to the user |
+| LLR3.1   |  __Alarms__ and LEDS needs to be synchronized otherwise the user will not get required output |
+| LLR3.2   |   When the blue switch is pressed three  times all led needs to turn ON in clockwise manner indicating the __alarm__ activation  |
+| LLR3.3   |  __Alarms__ gives security alert to the user |
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
