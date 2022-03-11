@@ -18,7 +18,7 @@
 * Keyless entry is intended to enable a driver to lock and unlock their car without a key. Keyless entry to a vehicle is usually attained by sending a radio frequency signal     from a remote transmitter to the receiver in the car. According to Compustar, the signal is sent as encrypted data from the keychain to your car.
 * Most keyless entry systems also allow the driver to open the vehicle, particularly the trunk, by pressing a button or using a shoe. The sensors for the trunk detect movement   and open it automatically, a handy detail for those who are grocery shopping or moving. The car sends out the short radio signal. If the fob is in range, it’s then triggered   to respond to the car, sending out its own code. The car recognizes this and unlocks the doors.
 
-## 5H 1W
+## 5W's And 1H
 ![new_5w](https://user-images.githubusercontent.com/46949062/157802342-5fc444bf-afbf-41c0-a513-2570608c4299.PNG)
 
 ## SWOT Analysis
