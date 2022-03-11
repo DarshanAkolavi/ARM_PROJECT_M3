@@ -6,6 +6,9 @@ BiCom system is a communication system between vehicle and its remote. The syste
 - The user shall  get Alram status display when  User Button Clicked twice.
 - The user shall get  battery information status display when User Button Clicked thrice.
 - The user shall get Door status display when  User Button Clicked forthfold.
+- 
+# 5W'S AND 1H
+![Untitled](https://user-images.githubusercontent.com/46949062/157973702-8aab9907-782d-4682-9762-a54d96369d92.jpg)
 
 ## SWOT Analysis
 
