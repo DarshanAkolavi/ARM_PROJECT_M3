@@ -1,8 +1,5 @@
 # M3_Group_67
 
-1.	RKE (Remote Keyless Entry)
-2.	BiCom System 
-
 | Sl.NO | Folder |
 | ------------- | ------------- |
 | 1 | 	RKE(Remote Keyless Entry) |
