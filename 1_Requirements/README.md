@@ -19,9 +19,10 @@ Although, locking your car should come as second nature, very often, that niggli
   ### **1) HLR**
 |   ID     | High Level Requirements |
 |----------| -----------------------------------------------------------------------|
-| HLR1     | It should be easily accesible and it must control the car            | 
-| HLR2     | It shall prevent car thieves through using different features           | 
-| HLR3     | Device shall be provided with alaram activation and  __deactivation__ | 
+| HLR1     | It should be easily accesible and it must control the car using __witches__         | 
+| HLR2     | It shall prevent car thieves through using different __features__          | 
+| HLR3     | Device shall be provided with __alaram__ activation and  deactivation | 
+| HLR4     | Device should acquire __power conversion__ technique |
   
   ### **2) LLR**
   
