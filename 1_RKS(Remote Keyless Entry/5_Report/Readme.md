@@ -2,7 +2,7 @@
     i.Description
       ii.Identifying features
         iii.Research
-          iv.5W’s & 1H and S.W.O.T analysis
+ //iv.5W’s & 1H and S.W.O.T analysis
 # 2.Requirements
    i.High level requirements
      ii.Low level requirements
