@@ -37,7 +37,7 @@ BiCom system is a communication system between vehicle and its remote. The syste
 | HLR1     | It should be easily accesible and it must control the car using __switches__         | 
 | HLR2     | It shall prevent car thieves through using different __rolling code algorithm__         | 
 | HLR3     | Device shall be provided with __alaram__ for activation and  deactivation | 
-| HLR4     | __Baterry life__ is important in RKE systems |
+| HLR4     | __Baterry life__ is important in BiCom systems |
 | HLR5     | __Car Status__ information shall display on the keyfob by LED or display|
 
 --------------------------------------------------------------------
@@ -77,7 +77,7 @@ BiCom system is a communication system between vehicle and its remote. The syste
 
 |   ID     | Low Level Requirements | 
 | -------- | ----------------------------------------------------| 
-| LLR5.1   | In __Car Status__ ,system must show window status in display. |
+| LLR5.1   | In __Car Status__ ,system must show window status in display/ through LED. |
 | LLR5.2   | System must show alarm status. |
 | LLR5.3   | System must show car battery information.|
 | LLR5.4   | System must show Door status.|
