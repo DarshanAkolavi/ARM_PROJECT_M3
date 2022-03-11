@@ -1,5 +1,5 @@
-# Architecture
-# 1 . Block Diagram
+# 3.Architecture
+# 3.1 Block Diagram
 
 
 
@@ -24,8 +24,8 @@
  
  
  
- # 2 . Behavioural Diagram
-- High Level Flow chart Behavioural Diagram
+ # 3.2 Behavioural Diagram
+ # 3.2.1 high Level Flow chart Behavioural Diagram
 
 
 
@@ -35,7 +35,7 @@
 
 ![rks1111](https://user-images.githubusercontent.com/55775183/157883519-294c5ad2-3e43-463c-8162-92277cd5f610.png)
 
-- Low Level Flow chart Behavioural Diagram
+# 3.2.2 Low Level Flow chart Behavioural Diagram
 
 
 
@@ -46,7 +46,7 @@
 
 ![rks2](https://user-images.githubusercontent.com/55775183/157883795-6a6e0407-89c3-414c-b33e-254cd40d1a20.png)
 
-# 3 . UML Use Case Structural Diagram
+# 3 UML Use Case Structural Diagram
 
 
 
