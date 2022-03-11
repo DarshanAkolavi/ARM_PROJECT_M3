@@ -2,14 +2,15 @@
 
 Getting Started with ARM Based Microcontroller
 1.	RKE (Remote Keyless Entry)
-2.	BiCom System
+2.	BiCom System 
 
-## Badges
-1)project quality. 
-2)code Grade. 
-3)codigs And 	codacy. 
+| Sl.NO | Folder |
+| ------------- | ------------- |
+| 1 | 	RKE(Remote Keyless Entry) |
+|2	| BiCom System  |
 
-## project folder Structure and Documentation 
+
+# Project folder Structure and Description
 
 
 | FOLDER TITLE  | DESCRIPTION |
@@ -21,4 +22,7 @@ Getting Started with ARM Based Microcontroller
 | 5_Report | Overall explanation of the project in a specified way |
 | 6_ImagesAndVideos | simulations and output of the project in image form |
  
- 
+ #Badges
+1)project quality. 
+2)code Grade. 
+3)codigs And 	codacy.
