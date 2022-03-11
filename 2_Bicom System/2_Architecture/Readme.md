@@ -1,5 +1,5 @@
-# Architecture
-# 1 . Block Diagram
+# 3.Architecture
+# 3.1 Block Diagram
 
 
 
@@ -25,8 +25,8 @@
  
  
  
- # 2 . Behavioural Diagram
-- High Level Flow chart Behavioural Diagram
+ # 3.2 Behavioural Diagram
+# 3.2.1 High Level Flow chart Behavioural Diagram
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-- Low Level Flow chart Behavioural Diagram
+# 3.2.2 Low Level Flow chart Behavioural Diagram
 
 
 
@@ -49,11 +49,11 @@
 
 
 
-# 3 . UML Use Case Structural Diagram
+# 3.3 UML Use Case Structural Diagram
 
 ![bicomstru1](https://user-images.githubusercontent.com/55775183/157886677-dfd01d3e-f8b3-4110-9c96-b91115dbac54.png)
 
-# 4. PIN DIAGRAM (STM32f407)
+# 3.4 PIN DIAGRAM (STM32f407)
 
 ![STM32F407 PIN](https://user-images.githubusercontent.com/98824269/157914502-ba986355-c47d-46f1-8ce1-63b2f5a24f2a.png)
 
@@ -71,7 +71,7 @@
 * Communication protocol comprises of three I2C interfacings.
 * Four USART, two UART three SPI, and two CAN interfacing can be done through this module.
 
-# Best Methods Followed
+# 3.5 Best Methods Followed
 * Exact Mapping of code to avoid confusions
 * Mentioning of both High level and Low level Behavioral and structural diagrams for better understanding
 * Followed the exact symbols to make the understanding easier
