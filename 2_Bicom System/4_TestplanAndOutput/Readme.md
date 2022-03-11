@@ -11,7 +11,7 @@
 # Low Level Test Plan
 | Test Id | Description | Exp I/P | Exp O/P | Actual O/P | Passed/Failed |
 |  -------- | -----------|----------|--------|---------------|----------- |
-|LL01|	Check for Window | User prsses the Button Once	|All LED's turn On|	All LED's turn On|	Passed |
-|LLR02| Check for Alarm | User prsses the Button Twice | All LED's turn Off |	All LED's turn Off|passed|
+|LL01|	Check for Window | User presses the Button Once	|All LED's turn On|	All LED's turn On|	Passed |
+|LLR02| Check for Alarm | User presses the Button Twice | All LED's turn Off |	All LED's turn Off|passed|
 |LLR03| Check for Battery | User presses the Button Thrice| LED's On in anticlockwise direction |LED's On in anticlockwise direction |passed|
 |LLR04|Check for the door| User presses the Button Four times |	LED's On in anticlockwise direction | LED's On in anticlockwise direction| Passed|
