@@ -17,6 +17,7 @@
 | 4_TestplanAndOutput | High and Low level test plans and analysis |
 | 5_Report | Overall explanation of the project in a specified way |
 | 6_ImagesAndVideos | simulations and output of the project in image form |
+| 7_Other | References |
  
  # Badges
 1) Project quality <br>
