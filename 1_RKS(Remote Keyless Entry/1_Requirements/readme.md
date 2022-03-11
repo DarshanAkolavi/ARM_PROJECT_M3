@@ -1,5 +1,8 @@
 ## Remote Keyless Entry Systems
-
+# Description
+* This project is an Remote keyless entry(RKE) system. This system helps to Lock the car, Unlock the car, Alarm activation/deactivation and Light Focus if anyone approaches near. There is a led signaling which helps us to identify the features. For example if we press a button 1 time all the LED will be on which means we locked the car and similarly for 2, 3 and 4 clicks. In this system one of the main feature is providing technical safety to the car rolling code algorithm to prevent car thieves/hackers from intercepting and spoofing the telegrams.
+* Here,we have transmitter and reciever units.Transmitter unit sends radio waves of certain frequency which is recieved by reciever which is placed inside the car.Now,the job of rolling code algorithm is that every time radio waves are transmitted the reciever accepts it and guids the transmitter with the perticular frequency required for nect process
+*************************************************
 * The term remote keyless system (RKS), also called keyless entry or remote central locking, refers to a lock that uses an electronic remote control as a key which is activated by a handheld device or automatically by proximity.
 
 * Keyless entry is a convenient system that removes the need for a physical key to unlock car doors. A “fob” or keychain, whether it’s in your hand, in a pocket, or in your bag, will unlock the door hands-free. The same fob works to start the engine.
