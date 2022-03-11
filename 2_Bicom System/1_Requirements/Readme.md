@@ -32,3 +32,8 @@ Threats
 * the system will not be taking the next command until the operation or function of the first command end.
 * system will not work if there is no power supply.
 * system will get damaged if in case of excessive power supply.
+
+## Applictions 
+
+ * Bi-directional communication makes this possible. When the door handle is pulled (or some similar trigger is activated) the base unit located within the vehicle emits a         short range, low frequency signal- polling for a nearby key fob transponder.
+  * if present, the key fob recognizes the signal and responds with a UHF (ultra-high frequency) signal, transmitting a code to be authenticated by the base unit encryption         firmware, such as Microchip Technology's Keylock.
