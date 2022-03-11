@@ -203,7 +203,7 @@
 * Communication protocol comprises of three I2C interfacings.
 * Four USART, two UART three SPI, and two CAN interfacing can be done through this module.
 
-## Best Methods Followed
+## 4.1 Best Methods Followed
 Exact Mapping of code to avoid confusions
 Mentioning of both High level and Low level Behavioral and structural diagrams for better understanding
 Followed the exact symbols to make the understanding easier
@@ -211,7 +211,7 @@ Detailed explanation in Low level Behavioural and Structural Diagrams
 
 
 
-## High Level Test Plan
+## 5.1 High Level Test Plan
 | Test Id | Description | Exp I/P | Exp O/P | Actual O/P | Passed/Failed |
 |---------|-------------|---------|---------|------------|---------------|
 | HL01 | Status of lock of car | Button Pressed One time | Locked Car | Locked Car | Passed |
@@ -221,7 +221,7 @@ Detailed explanation in Low level Behavioural and Structural Diagrams
 
 -----------------------------------------------------------------------------------------------------------------
 
-## Low Level Test Plan
+## 5.2  Low Level Test Plan
 | Test Id | Description | Exp I/P | Exp O/P | Actual O/P | Passed/Failed |
 |---------|-------------|---------|---------|------------|---------------|
 | LL01 | Check for lock | Button pressed One time | All LED's On | All LED's On | Passed |
