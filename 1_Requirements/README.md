@@ -28,10 +28,9 @@ Although, locking your car should come as second nature, very often, that niggli
   
 |   ID     | Low Level Requirements | 
 | -------- | ----------------------------------------------------| 
-| LLR1     | It shall be able to lock the car.                   |
-| LLR2     | It shall be able to unlock the car.                 | 
-| LLR3     | It shall be able to activate/ deactivate the alarm. |
-| LLR4     | It shall be able to activate the light.             |
+| LLR1.1   | Depending on the type of __switch__ movement the perticular action must be completed |                    |
+| LLR1.2   | LEDS are used for indication of the task completion based on perticular __switch__ operation                 | 
+| LLR1.3  | The __switches__ will be present in the transmitter unit |
 
 --------------------------------------------------------------------
 
