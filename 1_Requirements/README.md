@@ -19,9 +19,9 @@ Although, locking your car should come as second nature, very often, that niggli
   ### **1) HLR**
 |   ID     | High Level Requirements |
 |----------| -----------------------------------------------------------------------|
-| HLR1     | It shall operate by broadcasting radio waves on a particular frequency.| 
-| HLR2     | It shall prevent car thieves through rolling code algorithm.           | 
-| HLR3     | It shall recognize the signal and respond with a ultra high frequency. | 
+| HLR1     | It should be easily accesible and it must control the car            | 
+| HLR2     | It shall prevent car thieves through using different features           | 
+| HLR3     | Device shall be provided with alaram activation and * deactivation | 
   
   ### **2) LLR**
   
