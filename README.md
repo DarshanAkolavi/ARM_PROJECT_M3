@@ -11,7 +11,7 @@
 
 | FOLDER TITLE  | DESCRIPTION |
 | ------------- | ------------- |
-|  1_Requirements | Reaserch,5W's and 1H,SWOT analysis,High and Low level requirements. |
+|  1_Requirements | Description,Reaserch,5W's and 1H,SWOT analysis,High and Low level requirements,Applications |
 |  2_Design   |  Block diagram and explanation for High and Low level structutal diagrams and Flow chart.|
 |  3_Implementation | Code of the project and make file | 
 | 4_TestplanAndOutput | High and Low level test plans and analysis |
