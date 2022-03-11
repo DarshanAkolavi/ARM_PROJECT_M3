@@ -21,7 +21,7 @@ Although, locking your car should come as second nature, very often, that niggli
 |----------| -----------------------------------------------------------------------|
 | HLR1     | It should be easily accesible and it must control the car using __switches__         | 
 | HLR2     | It shall prevent car thieves through using different __rolling code algorithm__         | 
-| HLR3     | Device shall be provided with __alaram__ activation and  deactivation | 
+| HLR3     | Device shall be provided with __alaram__ for activation and  deactivation | 
 | HLR4     | Device should acquire __power conversion__ technique |
 
 --------------------------------------------------------------------
@@ -33,14 +33,26 @@ Although, locking your car should come as second nature, very often, that niggli
 | LLR1.2   | LEDS are used for indication of the task completion based on perticular __switch__ operation  | 
 | LLR1.3  | The __switches__ will be present in the transmitter unit |
 
-_______________________________________________________________________________________________________________________
+------------------------------------------------------------------------------------------------------------------------------
 
 |   ID     | Low Level Requirements | 
 | -------- | ----------------------------------------------------| 
 | LLR2.1   | __Rolling code algorithm__ protects the car from hackers by gemerating a new frequency radio waves for every use |
 | LLR2.2   | Reciever gives information of frequency value which will be used for every use which is the main feature of __rolling code algorithm__ |
+| LLR2.3   | __Rolling code algorithm__ 
 
-__________________________________________________________________________________________________________________________________-
+-----------------------------------------------------------------------------
+
+|   ID     | Low Level Requirements | 
+| -------- | ----------------------------------------------------| 
+| LLR3.1   |  __Alarams__ and LEDS needs to be synchronized otherwise the user will not get required output |
+| LLR3.2   |   When the blue switch is pressed 3 times all led needs to ON in clockwise manner indicating the __alaram__ activation  |
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+|   ID     | Low Level Requirements | 
+| -------- | ----------------------------------------------------| 
+
 
 
 
