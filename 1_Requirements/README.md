@@ -24,7 +24,8 @@ Although, locking your car should come as second nature, very often, that niggli
 | HLR3     | It shall recognize the signal and respond with a ultra high frequency. | 
   
   ### **2) LLR**
-|   ID      Low Level Requirements | 
+  
+|   ID     | Low Level Requirements | 
 | -------- | ----------------------------------------------------| 
 | LLR1     | It shall be able to lock the car.                   |
 | LLR2     | It shall be able to unlock the car.                 | 
