@@ -10,7 +10,7 @@
   * i.Behavioural Diagram
       * a.High Level Flow chart Behavioural Diagram
       * b.Low Level Flow chart Behavioural Diagram
-   ii.Structural Diagram
+  * ii.Structural Diagram
       * a. High Level UML Use Case Structural Diagram
       * b  Low Level UML Use Case Structural Diagram
 # 4.Test plan and Output
@@ -22,7 +22,6 @@
 
 
 -
-
 
 
 
