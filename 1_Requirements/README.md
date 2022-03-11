@@ -22,7 +22,7 @@ Although, locking your car should come as second nature, very often, that niggli
 | HLR1     | It should be easily accesible and it must control the car using __switches__         | 
 | HLR2     | It shall prevent car thieves through using different __rolling code algorithm__         | 
 | HLR3     | Device shall be provided with __alaram__ for activation and  deactivation | 
-| HLR4     | Device should acquire __power conversion__ technique |
+| HLR4     | __Baterry life__ is important in RKE systems |
 
 --------------------------------------------------------------------
   ### **2) LLR**
@@ -39,19 +39,23 @@ Although, locking your car should come as second nature, very often, that niggli
 | -------- | ----------------------------------------------------| 
 | LLR2.1   | __Rolling code algorithm__ protects the car from hackers by gemerating a new frequency radio waves for every use |
 | LLR2.2   | Reciever gives information of frequency value which will be used for every use which is the main feature of __rolling code algorithm__ |
-| LLR2.3   | __Rolling code algorithm__ 
+| LLR2.3   | __Rolling code algorithm__ gives technical support for the car |
 
 -----------------------------------------------------------------------------
 
 |   ID     | Low Level Requirements | 
 | -------- | ----------------------------------------------------| 
 | LLR3.1   |  __Alarams__ and LEDS needs to be synchronized otherwise the user will not get required output |
-| LLR3.2   |   When the blue switch is pressed 3 times all led needs to ON in clockwise manner indicating the __alaram__ activation  |
+| LLR3.2   |   When the blue switch is pressed three  times all led needs to turn ON in clockwise manner indicating the __alaram__ activation  |
+| LLR3.3   |  __Alarams__ gives security alert to the user |
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 |   ID     | Low Level Requirements | 
 | -------- | ----------------------------------------------------| 
+| LLR4.1   | In __battery life__ ,system must use every way possible to minimize operating current and "on time." |
+| LLR4.2   | The receiver must check almost constantly to avoid missing a demand for entry to the vehicle |
+| LLR4.3   | To save power the receiver attempts to shut down as often as possible, even during the brief intervals between checks |
 
 
 
