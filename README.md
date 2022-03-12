@@ -32,7 +32,7 @@
 | FOLDER TITLE  | DESCRIPTION |
 | ------------- | ------------- |
 |  1_Requirements | intoroduction and features by Anant,requiremnets by Sakshi(helped by darshan s),SWOT analysis by Darshan k ,5w and 1h by Darshan s |
-|  2_Design   |  All block diagram and flowcharts by Harshitha and Sakshi(pindiagram and discription.)|
+|  2_Design   |  All block diagram and flowcharts  and by features Harshitha and Sakshi(pindiagram and discription.)|
 |  3_Implementation | Anant,Sakshi, Darshan k for rks and Darshan s ,Harshitha ,Anant for bicom  | 
 | 4_TestplanAndOutput | Darshan s and Darshan k |
 | 5_Report | Darshan s and Darshan k for rks and Sakshi and Anant for bicom |
