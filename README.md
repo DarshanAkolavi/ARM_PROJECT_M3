@@ -11,7 +11,7 @@
 
 | FOLDER TITLE  | DESCRIPTION |
 | ------------- | ------------- |
-|  1_Requirements | intoroduction and features by Anant,requiremnets by Sakshi(helped by darshan s),SOWT analysis by harshitha ,5w and 1h by Darshan s |
+|  1_Requirements | intoroduction and features by Anant,requiremnets by Sakshi(helped by darshan s),SWOT analysis by harshitha ,5w and 1h by Darshan s |
 |  2_Design   |  Harshitha and Sakshi(pindiagram and discription.)|
 |  3_Implementation | Anant,Sakshi, Darshan k for rks and Darshan s ,Harshitha ,Anant for bicom  | 
 | 4_TestplanAndOutput | Darshan s and Darshan k |
