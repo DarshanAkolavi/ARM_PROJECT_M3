@@ -7,7 +7,7 @@
 
 
 # Project folder Structure and Description
-# FOR Both projects
+# FOR Both Projects
 
 | FOLDER TITLE  | DESCRIPTION |
 | ------------- | ------------- |
