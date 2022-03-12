@@ -98,12 +98,7 @@ BiCom system is a communication system between vehicle and its remote. The syste
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-## Applications 
 
- * Bi-directional communication makes this possible. When the door handle is pulled (or some similar trigger is activated) the base unit located within the vehicle emits a         short range, low frequency signal- polling for a nearby key fob transponder.
-  * if present, the key fob recognizes the signal and responds with a UHF (ultra-high frequency) signal, transmitting a code to be authenticated by the base unit encryption         firmware, such as Microchip Technology's Keylock.
-
---------------------------------------------------------------------
 # Architecture
 # 1 . Block Diagram
 
@@ -182,4 +177,11 @@ BiCom system is a communication system between vehicle and its remote. The syste
 * Mentioning of both High level and Low level Behavioral and structural diagrams for better understanding
 * Followed the exact symbols to make the understanding easier
 * Detailed explanation in Low level Behavioural and Structural Diagrams
+----------------------------------------------------------------
+## Applications 
+
+ * Bi-directional communication makes this possible. When the door handle is pulled (or some similar trigger is activated) the base unit located within the vehicle emits a         short range, low frequency signal- polling for a nearby key fob transponder.
+  * if present, the key fob recognizes the signal and responds with a UHF (ultra-high frequency) signal, transmitting a code to be authenticated by the base unit encryption         firmware, such as Microchip Technology's Keylock.
+
+--------------------------------------------------------------------
 
