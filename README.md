@@ -20,9 +20,14 @@
 | 7_Other | References |
  
  # Badges
+ 
 1) Project quality 
-![image](https://user-images.githubusercontent.com/98837660/157996907-4f57b1e1-204b-4d22-b072-88481d1ec189.png)
+
+      ![image](https://user-images.githubusercontent.com/98837660/157996907-4f57b1e1-204b-4d22-b072-88481d1ec189.png)
+
+      ![image](https://user-images.githubusercontent.com/98837660/157997060-bba5021a-0159-4d38-84ad-2733a0b54d2f.png)
 
 3) Code Grade 
-![image](https://user-images.githubusercontent.com/98837660/157996933-416aa607-82c0-4cfb-9a60-c690ac6f2690.png)
+
+      ![image](https://user-images.githubusercontent.com/98837660/157996933-416aa607-82c0-4cfb-9a60-c690ac6f2690.png)
 
