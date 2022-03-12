@@ -20,6 +20,9 @@
 | 7_Other | References |
  
  # Badges
-1) Project quality <br>
-2) Code Grade <br>
-3) Codiga and Codacy
+1) Project quality 
+![image](https://user-images.githubusercontent.com/98837660/157996907-4f57b1e1-204b-4d22-b072-88481d1ec189.png)
+
+3) Code Grade 
+![image](https://user-images.githubusercontent.com/98837660/157996933-416aa607-82c0-4cfb-9a60-c690ac6f2690.png)
+
