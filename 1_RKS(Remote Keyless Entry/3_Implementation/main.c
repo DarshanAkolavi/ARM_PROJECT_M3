@@ -24,6 +24,9 @@ static void LEDOFF(void);
 static void LEDONC(void);
 static void LEDONAC(void);
 
+
+
+
 static void LEDON(void)
 {
 	printf("Lock\n");
@@ -42,46 +45,58 @@ static void LEDOFF(void)
 	led_off(LED_BLUE);
 }
 
+
+
+
+
 static void LEDONC(void)
 {
 	printf("Alarm Activation\n");
 	led_on(LED_GREEN);
-	delay(350);
+	delay(100);
 	led_off(LED_GREEN);
-	delay(350);
+	delay(100);
 	led_on(LED_ORANGE);
-	delay(350);
+	delay(100);
 	led_off(LED_ORANGE);
-	delay(350);
+	delay(100);
 	led_on(LED_RED);
-	delay(350);
+	delay(100);
 	led_off(LED_RED);
-	delay(350);
+	delay(100);
 	led_on(LED_BLUE);
-	delay(350);
+	delay(100);
 	led_off(LED_BLUE);
 }
+
+
+
+
+
 
 static void LEDONAC(void)
 
 {
 	printf("Approach Light\n");
 	led_on(LED_GREEN);
-	delay(350);
+	delay(100);
 	led_off(LED_GREEN);
-	delay(350);
+	delay(100);
 	led_on(LED_BLUE);
-	delay(350);
+	delay(100);
 	led_off(LED_BLUE);
-	delay(350);
+	delay(100);
 	led_on(LED_RED);
-	delay(350);
+	delay(100);
 	led_off(LED_RED);
-	delay(350);
+	delay(100);
 	led_on(LED_ORANGE);
-	delay(350);
+	delay(100);
 	led_off(LED_ORANGE);
 }
+
+
+
 
 int main(void)
 {
