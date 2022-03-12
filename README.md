@@ -31,12 +31,12 @@
 
 | FOLDER TITLE  | DESCRIPTION |
 | ------------- | ------------- |
-|  1_Requirements | intoroduction and features by Anant,requiremnets by Sakshi(helped by darshan s),SWOT analysis by Darshan k ,5w and 1h by Darshan s,Features by Harshitha |
-|  2_Design   |  All block diagram and flowcharts  Harshitha and Sakshi(pindiagram and discription.)|
-|  3_Implementation | Anant,Sakshi, Darshan k for rks and Darshan s ,Harshitha ,Anant for bicom ,doxy files by Harshitha | 
+|  1_Requirements | intoroduction and features by Anant,requiremnets by Sakshi(helped by darshan s),SWOT analysis by Darshan k ,5w and 1h by Darshan s,Features by Harshitha N |
+|  2_Design   |  All block diagram and flowcharts  Harshitha N and Sakshi(pindiagram and discription.)|
+|  3_Implementation | Anant,Sakshi, Darshan k for rks and Darshan s ,Harshitha N ,Anant for bicom ,doxy files for both by Harshitha N | 
 | 4_TestplanAndOutput | Darshan s and Darshan k |
 | 5_Report | Darshan s and Darshan k for rks and Sakshi and Anant for bicom |
-| 6_ImagesAndVideos | Harshitha and Anant |
+| 6_ImagesAndVideos | Harshitha N and Anant |
 | 7_Other | Darshan k applications  |
  
  # Badges
