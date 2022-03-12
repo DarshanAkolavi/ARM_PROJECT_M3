@@ -77,7 +77,7 @@ int  bluebutton_count(void)
 	{
 		if ((*pGpiodDataReg1))
 		{
-			delay(150);
+			delay(2000);
 			c++;
 
 			if (c > 4)
