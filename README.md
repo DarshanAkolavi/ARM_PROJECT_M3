@@ -36,7 +36,7 @@
 |  3_Implementation | Anant,Sakshi, Darshan k for rks and Darshan s ,Harshitha N ,Anant for bicom ,doxy files for both by Harshitha N | 
 | 4_TestplanAndOutput | Darshan s and Darshan k |
 | 5_Report | Darshan s and Darshan k for rks and Sakshi and Anant for bicom |
-| 6_ImagesAndVideos | Harshitha N and Anant |
+| 6_ImagesAndVideos | Harshitha N and Anant ,Darshan s|
 | 7_Other | Darshan k applications  |
  
  # Badges
